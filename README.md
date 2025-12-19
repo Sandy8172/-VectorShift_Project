@@ -1,12 +1,9 @@
----
-
 # VectorShift Frontend Technical Assessment
 
 **Author:** Sandeep Singh
 **Submission:** `Sandeep_Singh_technical_assessment.zip`
 **Screen Recording:** `Sandeep_Singh_screenrecording.mp4`
 
----
 
 ## 📌 Overview
 
